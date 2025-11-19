@@ -1,0 +1,35 @@
+name: Update WPFR blog posts
+
+on:
+  schedule:
+    # Daily at 8h UTC (9h/10h French time)
+    - cron: '0 8 * * *'
+    # Weekly on Sunday at 20h UTC
+    - cron: '0 20 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update-blog:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          
+      - name: Update README from RSS feed
+        uses: gautamkrishnar/blog-post-workflow@v1.9.3
+        with:
+          feed_list: "https://wpfr.net/feed/"
+          max_post_count: 3
+          readme_path: './profile/README.md'
+          comment_tag_name: "BLOG-POST-LIST"
+          template: "- [$title]($url) - *$date*"
+          date_format: "dd/mm/yyyy"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "chore: update blog posts from RSS feed"
+          committer_username: "wpfr-asso"
+          committer_email: "contact@wpfr.net"
