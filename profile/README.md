@@ -4,8 +4,6 @@
 
 [![Support](https://img.shields.io/badge/Soutenir-Adhérer-6de2ff?style=flat-square&logo=heart)](https://wpfr.net/devenir-adherent/)  [![About](https://img.shields.io/badge/Découvrir-Notre%20association-6de2ff?style=flat-square&logo=info)](https://wpfr.net/association/)
 
-[![Getting Started](https://img.shields.io/static/v1?label=Débuter&message=Guide%20WordPress&color=6de2ff&style=flat-square)](https://wpfr.net/apprendre/) [![Contribute](https://img.shields.io/static/v1?label=Contribuer&message=Rejoindre%20WPFR&color=6de2ff&style=flat-square)](https://wpfr.net/contribuer/)
-
 WordPress Francophone est l'association qui anime la communauté WordPress française depuis 2008. Association loi 1901, WPFR fait rayonner WordPress et son écosystème en France à travers trois missions :
 
 - la transmission (apprentissage et support),
