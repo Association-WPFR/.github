@@ -23,7 +23,7 @@ jobs:
       - name: Update README from RSS feed
         uses: gautamkrishnar/blog-post-workflow@1.9.3
         with:
-          feed_list: "https://wpfr.net/feed/"
+          feed_list: "https://wpfr.net/actualites/feed/"
           max_post_count: 3
           readme_path: './profile/README.md'
           comment_tag_name: "BLOG-POST-LIST"
