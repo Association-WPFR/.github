@@ -33,3 +33,4 @@ jobs:
           commit_message: "chore: update blog posts from RSS feed"
           committer_username: "wpfr-asso"
           committer_email: "contact@wpfr.net"
+          user_agent: "Mozilla/5.0 (compatible; WPFR-Feed-Reader/1.0)"
