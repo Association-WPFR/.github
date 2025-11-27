@@ -12,11 +12,7 @@ WordPress Francophone est l'association qui anime la communauté WordPress fran�
 
 ## Actualités récentes du [blog WPFR](https://wpfr.net/actualites/)
 
-<!-- BLOG-POST-LIST:START -->
-- #
-- #
-- #
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [WPFR × Designers Éthiques : la Semaine du Libre &lpar;Lyon&rpar;](https://wpfr.net/wpfr-x-designers-ethiques-la-semaine-du-libre-lyon/) - *08/11/2025*- [Rejoignez-nous sur Flickr, et partagez vos souvenirs avec la communauté WPFR !](https://wpfr.net/rejoignez-nous-sur-flickr-et-partagez-vos-souvenirs-avec-la-communaute-wpfr/) - *24/06/2025*- [Élection du Conseil d’Administration et du Bureau 2024-2025](https://wpfr.net/election-du-conseil-dadministration-et-du-bureau-2024-2025/) - *20/06/2025*<!-- BLOG-POST-LIST:END -->
 
 ## Contribuer (ou signaler des problèmes) sur les dépôts de l'association
 
