@@ -12,7 +12,7 @@ WordPress Francophone est l'association qui anime la communauté WordPress fran�
 
 ## Actualités récentes du [blog WPFR](https://wpfr.net/actualites/)
 
-<!-- BLOG-POST-LIST:START -->- [Journée de Contribution Nice 2026 : les inscriptions sont ouvertes !](https://wpfr.net/journee-de-contribution-nice-2026-les-inscriptions-sont-ouvertes/) - *15/12/2025*- [L’Association : 5 questions aux membres du Bureau de WPFR](https://wpfr.net/lassociation-5-questions-aux-membres-du-bureau-de-wpfr/) - *11/12/2025*- [WPFR lance ses permanences associatives mensuelles](https://wpfr.net/wpfr-lance-ses-permanences-associatives-mensuelles/) - *02/12/2025*<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Journée de Contribution Nice 2026 : présentation des tables – épisode n°1 !](https://wpfr.net/journee-de-contribution-du-wordcamp-nice-2026-presentation-des-tables-episode-1/) - *07/01/2026*- [Journée de Contribution Nice 2026 : les inscriptions sont ouvertes !](https://wpfr.net/journee-de-contribution-nice-2026-les-inscriptions-sont-ouvertes/) - *15/12/2025*- [L’Association : 5 questions aux membres du Bureau de WPFR](https://wpfr.net/lassociation-5-questions-aux-membres-du-bureau-de-wpfr/) - *11/12/2025*<!-- BLOG-POST-LIST:END -->
 
 ## Contribuer (ou signaler des problèmes) sur les dépôts de l'association
 
