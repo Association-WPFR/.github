@@ -12,7 +12,7 @@ WordPress Francophone est l'association qui anime la communauté WordPress fran�
 
 ## Actualités récentes du [blog WPFR](https://wpfr.net/actualites/)
 
-<!-- BLOG-POST-LIST:START -->- [Journée de Contribution Nice 2026 : présentation des tables – Episode n°3](https://wpfr.net/journee-de-contribution-nice-2026-presentation-des-tables-episode-3/) - *02/02/2026*- [Journée de Contribution Nice 2026 : présentation des tables – épisode n°2 !](https://wpfr.net/journee-de-contribution-nice-2026-presentation-des-tables-episode-2/) - *21/01/2026*- [Journée de Contribution Nice 2026 : présentation des tables – épisode n°1 !](https://wpfr.net/journee-de-contribution-du-wordcamp-nice-2026-presentation-des-tables-episode-1/) - *07/01/2026*<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Journée de Contribution Nice 2026 : présentation des tables – Episode n°4](https://wpfr.net/journee-de-contribution-nice-2026-presentation-des-tables-episode-n4-accessibilite-coeur-documentation/) - *09/02/2026*- [Journée de Contribution Nice 2026 : présentation des tables – Episode n°3](https://wpfr.net/journee-de-contribution-nice-2026-presentation-des-tables-episode-3/) - *02/02/2026*- [Journée de Contribution Nice 2026 : présentation des tables – épisode n°2 !](https://wpfr.net/journee-de-contribution-nice-2026-presentation-des-tables-episode-2/) - *21/01/2026*<!-- BLOG-POST-LIST:END -->
 
 ## Contribuer (ou signaler des problèmes) sur les dépôts de l'association
 
