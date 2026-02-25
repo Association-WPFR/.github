@@ -12,7 +12,7 @@ WordPress Francophone est l'association qui anime la communauté WordPress fran�
 
 ## Actualités récentes du [blog WPFR](https://wpfr.net/actualites/)
 
-<!-- BLOG-POST-LIST:START -->- [Journée de contribution du WordCamp Nice 2026 : participez à la Release Party de la version Beta de WP 7.0 !](https://wpfr.net/journee-de-contribution-du-wordcamp-nice-2026-participez-a-la-release-party-de-la-version-beta-de-wp-7-0/) - *13/02/2026*- [Journée de Contribution Nice 2026 : présentation des tables – Episode n°4](https://wpfr.net/journee-de-contribution-nice-2026-presentation-des-tables-episode-n4-accessibilite-coeur-documentation/) - *09/02/2026*- [Journée de Contribution Nice 2026 : présentation des tables – Episode n°3](https://wpfr.net/journee-de-contribution-nice-2026-presentation-des-tables-episode-3/) - *02/02/2026*<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Journée de Contribution Nice 2026 : avant de se mettre dans les starting blocks, une petite checklist !](https://wpfr.net/journee-de-contribution-nice-2026-avant-de-se-mettre-dans-les-starting-blocks-une-petite-checklist/) - *24/02/2026*- [Journée de contribution du WordCamp Nice 2026 : participez à la Release Party de la version Beta de WP 7.0 !](https://wpfr.net/journee-de-contribution-du-wordcamp-nice-2026-participez-a-la-release-party-de-la-version-beta-de-wp-7-0/) - *13/02/2026*- [Journée de Contribution Nice 2026 : présentation des tables – Episode n°4](https://wpfr.net/journee-de-contribution-nice-2026-presentation-des-tables-episode-n4-accessibilite-coeur-documentation/) - *09/02/2026*<!-- BLOG-POST-LIST:END -->
 
 ## Contribuer (ou signaler des problèmes) sur les dépôts de l'association
 
