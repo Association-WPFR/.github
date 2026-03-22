@@ -29,6 +29,7 @@ jobs:
           readme_path: './profile/README.md'
           comment_tag_name: "BLOG-POST-LIST"
           template: "- [$title]($url) - *$date*$newline"
+          tag_post_pre_newline: true
           date_format: "dd/mm/yyyy"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: "chore: update blog posts from RSS feed"
