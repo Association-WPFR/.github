@@ -13,9 +13,9 @@ WordPress Francophone est l'association qui anime la communauté WordPress fran�
 ## Actualités récentes du [blog WPFR](https://wpfr.net/actualites/)
 
 <!-- BLOG-POST-LIST:START -->
+- [WPFR Days 2026 : voici le programme détaillé](https://wpfr.net/wpfr-days-2026-voici-le-programme-detaille/) - *13/05/2026*
 - [Élection du Conseil d’Administration et du Bureau 2026-2027](https://wpfr.net/election-du-conseil-dadministration-et-du-bureau-2026-2027/) - *28/04/2026*
 - [WPFR Days : première édition les 19 et 20 juin !](https://wpfr.net/wpfr-days-premiere-edition-les-19-et-20-juin/) - *17/04/2026*
-- [Retours sur la journée de Contribution du WordCamp Nice 2026](https://wpfr.net/retours-journee-contribution-wordcamp-nice-2026/) - *02/04/2026*
 
 <!-- BLOG-POST-LIST:END -->
 
